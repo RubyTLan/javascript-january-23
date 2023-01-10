@@ -1,12 +1,3 @@
-/*
-    Notes:
-    Iteration 1: Set 9 as the current minimum, then iterate through the remaining unsorted elements to find the true minimum.
-    if element < currentMinimum set element as new current minimum then keep moving down the line
-    swap minimum with first unsorted position
-
-    Iteration 2: Set 2 as the current minimum, then iterate through the remaining unsorted elements to find the true minimum.
-*/
-
 /* 
     https://visualgo.net/en/sorting
         
